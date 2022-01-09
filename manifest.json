@@ -1,0 +1,87 @@
+{
+  "pages/react-tour.page.client.ts": {
+    "file": "assets/pages/react-tour.page.client.ts.d76699aa.js",
+    "src": "pages/react-tour.page.client.ts",
+    "isEntry": true,
+    "imports": [
+      "_DocSearch.1ac2cc2c.js",
+      "_ScaffoldCallToAction.client.5fa87c98.js"
+    ]
+  },
+  "pages/vue-tour.page.client.ts": {
+    "file": "assets/pages/vue-tour.page.client.ts.1e03301a.js",
+    "src": "pages/vue-tour.page.client.ts",
+    "isEntry": true,
+    "imports": [
+      "_DocSearch.1ac2cc2c.js",
+      "_ScaffoldCallToAction.client.5fa87c98.js"
+    ]
+  },
+  "renderer/_default.page.client.ts": {
+    "file": "assets/renderer/_default.page.client.ts.5346e489.js",
+    "src": "renderer/_default.page.client.ts",
+    "isEntry": true,
+    "imports": [
+      "_DocSearch.1ac2cc2c.js"
+    ]
+  },
+  "pages/html-only-demo/index.page.client.jsx": {
+    "file": "assets/pages/html-only-demo/index.page.client.jsx.6c6a9950.js",
+    "src": "pages/html-only-demo/index.page.client.jsx",
+    "isEntry": true
+  },
+  "pages/index/index.page.client.ts": {
+    "file": "assets/pages/index/index.page.client.ts.f1eb84a5.js",
+    "src": "pages/index/index.page.client.ts",
+    "isEntry": true,
+    "imports": [
+      "_DocSearch.1ac2cc2c.js",
+      "_ScaffoldCallToAction.client.5fa87c98.js"
+    ],
+    "css": [
+      "assets/pages/index/index.page.client.ts.f7ccdf62.css"
+    ]
+  },
+  "pages/spa-demo/index.page.client.jsx": {
+    "file": "assets/pages/spa-demo/index.page.client.jsx.ba77fa87.js",
+    "src": "pages/spa-demo/index.page.client.jsx",
+    "isEntry": true,
+    "imports": [
+      "_vendor.fffd322d.js",
+      "_jsx-runtime.703c0803.js"
+    ]
+  },
+  "pages/ssr-demo/index.page.client.jsx": {
+    "file": "assets/pages/ssr-demo/index.page.client.jsx.5de7ef1a.js",
+    "src": "pages/ssr-demo/index.page.client.jsx",
+    "isEntry": true,
+    "imports": [
+      "_vendor.fffd322d.js",
+      "_jsx-runtime.703c0803.js"
+    ]
+  },
+  "_vendor.fffd322d.js": {
+    "file": "assets/vendor.fffd322d.js"
+  },
+  "_DocSearch.1ac2cc2c.js": {
+    "file": "assets/DocSearch.1ac2cc2c.js",
+    "css": [
+      "assets/DocSearch.1f4c60a7.css"
+    ],
+    "assets": [
+      "assets/Inter-Var.2bc54814.ttf"
+    ]
+  },
+  "_ScaffoldCallToAction.client.5fa87c98.js": {
+    "file": "assets/ScaffoldCallToAction.client.5fa87c98.js",
+    "css": [
+      "assets/ScaffoldCallToAction.client.ff807686.css"
+    ]
+  },
+  "_jsx-runtime.703c0803.js": {
+    "file": "assets/jsx-runtime.703c0803.js",
+    "imports": [
+      "_vendor.fffd322d.js"
+    ]
+  }
+}
